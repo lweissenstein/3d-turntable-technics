@@ -1,19 +1,9 @@
-# 3D Turntable Project – Technics 1210 MK2
+# 3D Turntable Project â€“ Technics 1210 MK2
 
 ### Overview
 
 This project is a 3D turntable created as part of a university assignment for the course **3D Design**.  
 The goal was to create a high-quality 3D asset with proper materials, lighting, and rendering setup.
-
----
-
-### Software & Tools
-
-- **Modeling & Scene Setup:** Autodesk Maya
-- **Materials:** Hypershade, PBR workflow
-- **Lighting:** 3-point lighting setup
-- **Renderer:** Arnold
-- **Textures:** Free PBR textures sourced externally (see [texture licenses](./licenses/texture-credits.md))
 
 ---
 
@@ -24,6 +14,16 @@ The goal was to create a high-quality 3D asset with proper materials, lighting, 
 ![Turntable Render](./renders/Technics_render_top.png)
 
 > More renders can be found in the `/renders` folder.
+
+---
+
+### Software & Tools
+
+- **Modeling & Scene Setup:** Autodesk Maya
+- **Materials:** Hypershade, PBR workflow
+- **Lighting:** 3-point lighting setup
+- **Renderer:** Arnold
+- **Textures:** Free PBR textures sourced externally (see [texture licenses](./licenses/texture-credits.md))
 
 ---
 
