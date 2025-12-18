@@ -3,6 +3,8 @@
 **Developer:** Lennart Weissenstein  
 **Project:** Realistic 3D Turntable
 
+---
+
 ### Overview
 
 This project is a 3D turntable created as part of a university assignment for the course **3D Design**.  
